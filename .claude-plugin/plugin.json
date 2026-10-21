@@ -1,6 +1,6 @@
 {
   "name": "chrome-devtools",
-  "version": "1.11.0",
+  "version": "1.11.1-rt2",
   "description": "Reliable automation, in-depth debugging, and performance analysis in Chrome using Chrome DevTools and Puppeteer",
   "mcpServers": {
     "chrome-devtools": {
